@@ -3,10 +3,10 @@
 
 ![HJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhj1129&include_all_commits=true&count_private=true)
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## Projects
-* **[hello](https://github.com/yhj1129/hello)**
+* **[쇼핑몰](https://github.com/yhj1129/Springboot-MetaMall-Project)**
+* **[블로그](https://github.com/yhj1129/Springboot-JPA-Blog)**
