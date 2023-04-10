@@ -10,3 +10,4 @@
 ## Projects
 * **[쇼핑몰](https://github.com/yhj1129/Springboot-MetaMall-Project)**
 * **[블로그](https://github.com/yhj1129/Springboot-JPA-Blog)**
+* **[만화책 대여](https://github.com/yhj1129/ComicBook_Rental_System)**
